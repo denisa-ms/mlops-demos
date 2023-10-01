@@ -1,0 +1,9 @@
+digest: 9f8ac20c
+name: dataset
+profile: '{"features_shape": [7500, 23], "features_size": 172500, "features_nbytes":
+  1380000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"int64\", \"shape\": [-1, 23]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "dschlesinger", "mlflow.source.name": "c:\\Users\\dschlesinger\\code\\ongoing\\Azure
+  ML\\.venv\\lib\\site-packages\\ipykernel_launcher.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code
