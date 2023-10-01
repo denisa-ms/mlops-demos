@@ -1,4 +1,5 @@
 ChicagoParkingTickets.txt
+.mlruns/*
 
 .vscode/*
 !.vscode/settings.json
