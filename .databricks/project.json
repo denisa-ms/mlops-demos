@@ -1,0 +1,5 @@
+{
+  "host": "https://adb-5617874815796099.19.azuredatabricks.net/",
+  "authType": "azure-cli",
+  "workspacePath": "/Users/dschlesinger@microsoft.com/.ide/mlops-demos-f18ed122"
+}
